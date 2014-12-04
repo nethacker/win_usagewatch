@@ -6,9 +6,10 @@ A PowerShell script with methods to find usage statistics on Windows such as CPU
 
 ## Getting Started
 
+```bash
 Run example.ps1 in PowerShell
 
-Example Output:
+PS C:\Users\nethacker\Desktop> .\example.ps1
 
 CPU USED 11 %
 MEMORY USED 31 %
@@ -20,8 +21,8 @@ BANDWIDTH REC / SEC 0.65
 DISK I/O 6
 DISK READS / SEC 0
 DISK WRITES / SEC 6
+```
 
 ## Tested Using
 
-Windows 7 Professional
-Windows 7 Home
+OS VERSIONS: Windows 7 Professional, Windows 7 Home
