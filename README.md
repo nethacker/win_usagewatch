@@ -1,6 +1,6 @@
 # win_usagewatch
 
-License: (MIT) Copyright (C) 2014 usagewatch Author Phil Chen
+License: (MIT) Copyright (C) 2014 win_usagewatch Author Phil Chen
 
 A PowerShell script with methods to find usage statistics on Windows such as CPU, Disk, TCP/UDP Connections, Load, Bandwidth, Disk I/O, and Memory
 
